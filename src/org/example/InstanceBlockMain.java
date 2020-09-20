@@ -15,7 +15,7 @@ public class InstanceBlockMain {
     }
 
     public static void main(String[] args) {
-
+        System.out.println("Java is simple");
         System.out.println("main method output"); // 1
         new InstanceBlockMain();// syntax to create object
        System.out.println("----------------------------");
