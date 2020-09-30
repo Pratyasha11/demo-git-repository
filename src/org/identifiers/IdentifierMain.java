@@ -8,5 +8,11 @@ public class IdentifierMain {
         System.out.println(age);
         System.out.println(AGE);
         System.out.println(Age);
+
+        String firstName = "Pratyasha"; // firstName is an identifier
+        String lastName = "Priyadarshini"; // lastName is an identifier
+
+        String s= "Pratyasha"+ "Priyadarshini";
+        System.out.println(s);
     }
 }
